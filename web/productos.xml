@@ -7,7 +7,7 @@
         <img>PROD00001.jpg</img>
         <categoria>Textil</categoria>
         <precio>2.55</precio>
-        <existencias>500</existencias>
+        <existencias>0</existencias>
     </producto>
     <producto>
         <codigo>PROD00002</codigo>

@@ -96,12 +96,12 @@
         {
             print("
             <!-- Header-->
-            <header class='bg-dark py-5'>
-                <div class='container px-4 px-lg-5 my-5'>
-                    <div class='text-center text-white'>
-                        <h1 class='display-4 fw-bolder'>Shop in style</h1>
-                        <p class='lead fw-normal text-white-50 mb-0'>With this shop hompeage template</p>
-                    </div>
+            <header>
+                <div class='slider'>
+                        <div class='text-center text-white'>
+                            <h1 class='display-4 fw-bolder'>Textil Export</h1>
+                            <p class='lead fw-normal text-white-80 mb-0'>Empresa 100% salvadoreña y número 1 en ventas</p>
+                        </div>
                 </div>
             </header>
             ");
